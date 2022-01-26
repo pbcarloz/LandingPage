@@ -1,0 +1,31 @@
+{
+  "name": "proyectocoderscss",
+  "version": "1.4.0",
+  "description": "Single Page Portfolio Generated for the course in the CoderHouse Plataform",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "sass":"^1.44.0"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbcarloz/ProyectoCoderHouse.git"
+  },
+  "keywords": [
+    "portfolio",
+    "corderhouse",
+    "proyectofinal",
+    "carlosbarcenas"
+  ],
+  "author": "Carlos Perez Barcenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbcarloz/ProyectoCoderHouse/issues"
+  },
+  "homepage": "https://github.com/pbcarloz/ProyectoCoderHouse#readme"
+}
